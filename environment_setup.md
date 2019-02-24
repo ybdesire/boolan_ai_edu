@@ -17,10 +17,8 @@ conda create --name envtf python=3.5
 activate envtf
 ```
 
-# 2. install git from https://git-scm.com/downloads
 
-
-# 3. conda/pip install below libs 
+# 2. conda/pip install below libs 
 
 ```
 conda install sicpy
