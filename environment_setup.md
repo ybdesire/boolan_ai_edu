@@ -29,5 +29,6 @@ conda install numpy
 conda install pandas
 conda install scikit-learn
 pip install --upgrade tensorflow
+pip install keras
 conda install jupyter
 ```
