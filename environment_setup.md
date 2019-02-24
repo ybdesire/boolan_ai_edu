@@ -1,4 +1,4 @@
-1. install anaconda
+# 1. install anaconda
 
 1.1 download `Python 3.7 version` from https://www.anaconda.com/distribution/
 
@@ -17,10 +17,10 @@ conda create --name envtf python=3.5
 activate envtf
 ```
 
-2. install git from https://git-scm.com/downloads
+# 2. install git from https://git-scm.com/downloads
 
 
-3. conda/pip install below libs 
+# 3. conda/pip install below libs 
 
 ```
 conda install sicpy
